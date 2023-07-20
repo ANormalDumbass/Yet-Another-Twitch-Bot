@@ -2,7 +2,10 @@
 Yet Another Twitch Bot... But in Python!
 
 This *not so usable* Python Script is used to connect to Twitch's API to create a simple Twitch Chat Bot. 
+
 *This git repository was made not to be something actually serious, If you actually need something serious use another bot.*
+
+
 **INSTRUCTIONS:**
 
 1.- Download every Python Script. 
